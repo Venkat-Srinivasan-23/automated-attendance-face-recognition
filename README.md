@@ -90,6 +90,7 @@ We welcome contributions to enhance the project. To contribute:
 4. Commit and push your changes (`git push origin feature-branch`).
 5. Open a Pull Request.
 
+
 ## How to become a contributor and submit your own code
 
 ![Screen Shot 2022-08-30 at 7 27 04 PM](https://user-images.githubusercontent.com/42785357/187579207-9924eb32-da31-47bb-99f9-d8bf1aa238ad.png)
@@ -149,16 +150,3 @@ We welcome contributions to enhance the project. To contribute:
 In a graphical form, the entire lifetime of a PR looks like
 
 ![image](https://github.com/tensorflow/tensorflow/assets/52792999/3eea4ca5-daa0-4570-b0b5-2a2b03a724a3)
-
-Please ensure that you follow the [contributing guidelines](CONTRIBUTING.md).
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## **Acknowledgments**
-- Thanks to the developers of **OpenCV** and **face_recognition** library.
-- Special thanks to the contributors who helped improve this project.
-
----
-
-You can customize this README by adding more specific details as per your project’s needs.
